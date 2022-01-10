@@ -1,0 +1,1 @@
+# terraform code for aws bean stalk stack.
